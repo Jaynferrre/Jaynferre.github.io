@@ -2,11 +2,15 @@
 layout: default
 title: Jennifer Esbel Mary | Resume
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" style="border-radius: 50%; border: 5px solid #FF69B4;">
+</p>
 
-# Jennifer Esbel Mary
-### Bachelors in Science (Engineering Sciences) @ IIT Bombay
-**Minors:** Biosciences & Bioengineering | Healthcare Informatics
-
+<h1 align="center">Jennifer Esbel Mary</h1>
+<p align="center">
+  **B.S. Engineering Sciences | IIT Bombay**<br>
+  **Minors:** Biosciences & Bioengineering | Healthcare Informatics
+</p>
 <p align="left">
   <a href="mailto:jenniferchristy0507@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[https://linkedin.com](https://www.linkedin.com/in/jenniferesbelmary/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -42,7 +46,7 @@ title: Jennifer Esbel Mary | Resume
 `NiBabel` • `Matplotlib` • `Seaborn` 
 
 ---
-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/l41lTfuxmQ9GzI95S/giphy.gif" width="150">
 ## Positions of Responsibility
 
 ### **Creatives Manager** | **Institute Innovation Council**
