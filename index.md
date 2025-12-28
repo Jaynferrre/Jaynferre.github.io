@@ -15,6 +15,7 @@ title: Jennifer Esbel Mary
 ---
 
 <div class="glass-card">
+  
 ## Education
   
 | Level | Institute | Year | Degree | Performance |
@@ -30,7 +31,7 @@ title: Jennifer Esbel Mary
 </div>
 
 <div class="glass-card">
-## 🔬 Research & Projects
+## Research & Projects
 
 ### **Parkinson's Disease Stratification**
 * Generated **GMM-based synthetic populations** (300+ subjects) for gait analysis.
@@ -44,6 +45,7 @@ title: Jennifer Esbel Mary
 
 <div class="glass-card">
 ## Leadership & Impact
+  
 * **Creatives Manager (IIC):** Managing digital branding for hackathons reaching **50,000+**.
 * **Sustainability Volunteer:** Conducted audits for events with **200,000+** footfall.
 * **iGEM Outreach:** **Silver Medalist** at the 2025 Grand Jamboree; won **Best Project Poster**.
