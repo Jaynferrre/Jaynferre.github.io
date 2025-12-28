@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: default
+title: Jennifer Esbel Mary 
 header:
   overlay_color: "#FF1493"
   overlay_filter: "0.5"
