@@ -16,7 +16,8 @@ title: Jennifer Esbel Mary
 
 <div class="glass-card">
 ## Education
-| Level | Institute | Year | Detail | Performance |
+  
+| Level | Institute | Year | Degree | Performance |
 | :--- | :--- | :--- | :--- | :--- |
 | **B.S.** | **IIT Bombay** | 2028 | Engineering Sciences | **6.95 CPI** |
 | **Class XII** | Suguna PIP School | 2024 | Intermediate | **93.8%** |
