@@ -1,153 +1,80 @@
+---
+layout: default
+title: Jennifer Esbel Mary | Resume
+---
+
 # Jennifer Esbel Mary
+### Bachelors in Science (Engineering Sciences) @ IIT Bombay
+**Minors:** Biosciences & Bioengineering | Healthcare Informatics
 
-B.S. in Engineering Sciences | IIT Bombay **Minors:** Biosciences and Bioengineering & Healthcare Informatics 
-
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [Email](mailto:jennifer@example.com)
-
----
-
-## 🎓 Education
-
-| Examination | University | Institute | Year | CPI/% |
-| --- | --- | --- | --- | --- |
-| **Graduation (B.S.)** | IIT Bombay | IIT Bombay | 2028 | 6.95 |
-| **Intermediate** | CBSE | Suguna PIP School | 2024 | 93.8% |
-| **Matriculation** | CBSE | Suguna PIP School | 2022 | 97.40% |
-
-* 
-**Specialization**: Engineering Sciences 
-
-
-* **Minors**:
-* Biosciences and Bioengineering 
-
-
-* Healthcare Informatics at Koita Centre for Digital Health (KCDH) 
-
-
-
-
+<p align="left">
+  <a href="mailto:jenniferchristy0507@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/jenniferesbelmary/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jaynferrrre"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🏆 Scholastic Achievements
+## Education
 
-* 
-**Branch Change**: Granted a Change of Branch to the Centre for Liberal Education, as one of only 15 students out of 1400+.
+| Level | Institute | Year | Detail | Performance |
+| :--- | :--- | :--- | :--- | :--- |
+| **B.S.** | **IIT Bombay** | 2028 | Engineering Sciences | **6.95 CPI** |
+| **Class XII** | Suguna PIP School (CBSE) | 2024 | Intermediate | **93.8%** |
+| **Class X** | Suguna PIP School (CBSE) | 2022 | Matriculation | **97.4%** |
 
-
-* 
-**JEE Mains**: Achieved a rank within the top **0.85 percentile** among 1.4 million+ candidates.
-
-
-* 
-**JEE Advanced**: Secured a rank in the top **4.99 percentile** from 0.18 million+ candidates.
-
-
+* **Scholastic Honors:**
+  * **Branch Change:** Selected as 1 of 15 students (out of 1400+) for the Centre for Liberal Education.
+  * **JEE Advanced:** Ranked in the top **4.99 percentile** among 180,000+ candidates.
+  * **JEE Mains:** Ranked in the top **0.85 percentile** among 1.4 million+ candidates.
 
 ---
 
-## 💼 Positions of Responsibility
+## Technical Toolkit
 
-### **Creatives Manager | IIT Bombay**
+**Programming & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
 
-*(Oct 2025 – Present)* 
+**Data Science & Machine Learning**
+`scikit-learn` • `pandas` • `NumPy` • `TensorFlow` • `statsmodels` 
 
-* Member of the **Institute Innovation Council (IIC)**, promoting entrepreneurship and innovation on campus.
-
-
-* Spearheading visual identity and digital branding for flagship hackathons reaching **50,000+** people.
-
-
-* Developing an **Innovation Toolkit** and building the editorial workflow for the Gen-Z Innovation Magazine.
-
-
-
-### **GESH Living Lab Volunteer | IIT Bombay**
-
-*(Nov 2025 – Present)* 
-
-* Selected for a competitive cohort of 30+ volunteers dedicated to Institute sustainability goals.
-
-
-* Conducted **social sustainability audits** for flagship events with a total footfall of **200,000+**.
-
-
-* Developing a Stakeholder Mapping Tool-kit and **DEI Audit** (Diversity, Equity, and Inclusion).
-
-
-* Building a framework for **behavioral psychology** interventions to disincentivize unsustainable practices.
-
-
-
-### **iHP Outreach Associate | iGEM IIT Bombay**
-
-*(Dec 2024 – Dec 2025)* 
-
-* Earned a **Silver Medal** at the iGEM 2025 Grand Jamboree for excellence in integrated human practices.
-
-
-* Co-organized **BioQuest**, an outreach competition attracting 1000+ high-school students.
-
-
-* Won **Best Project Poster Award** at the All-India iGEM Meet (AIIM) 2025.
-
-
+**Medical Imaging & Visualization**
+`NiBabel` • `Matplotlib` • `Seaborn` 
 
 ---
 
-## 🔬 Key Projects
+## Positions of Responsibility
 
-### **Multi-Factorial Stratification of Parkinson's Disease Severity**
+### **Creatives Manager** | **Institute Innovation Council**
+*Oct 2025 – Present*
+* Managing digital branding for hackathons with a reach of **50,000+**.
+* Architecting the **Innovation Toolkit** and the editorial board for the *Innovation Magazine*.
 
-*(Sep 2025 – Nov 2025)* 
+### **Sustainability Volunteer** | **GESH Living Lab (Cohort II)**
+*Nov 2025 – Present*
+* Executing **social sustainability audits** for campus events with **200,000+** attendees.
+* Designing a **Stakeholder Mapping Tool-kit** and identifying ESG systemic gaps.
+* Applying **behavioral psychology** to create interventions for unsustainable habits.
 
-* 
-**Public Health Informatics Project (DH302)** guided by Prof. Saket Choudhary and Prof. Nirmal Punjabi.
+### **Outreach Associate** | **iGEM IIT Bombay**
+*Dec 2024 – Dec 2025*
+* **Silver Medalist** at the iGEM 2025 Grand Jamboree (Paris).
+* Co-organized **BioQuest**, reaching 1,000+ students nationwide.
+* Awarded **Best Project Poster** at the All-India iGEM Meet (AIIM).
 
+---
 
-* Synthesized a population of 300+ subjects using **GMM** for statistical significance in gait analysis.
+## Research & Projects
 
-
-* Used **SMOTE** to resolve class imbalances in high-dimensional sensor data.
-
-
-* Achieved **97% diagnostic accuracy** using **Random Forest** classifiers to identify early-stage neurodegeneration.
-
-
+### **Neuro-Degeneration Classification (Parkinson's)**
+*Public Health Informatics Project (DH302)*
+* Generated **GMM-based synthetic populations** (300+ subjects) for gait analysis.
+* Utilized **SMOTE** to handle class imbalance in high-dimensional sensor data.
+* Built a **Random Forest** classifier achieving **97% accuracy** in early-stage detection.
 
 ### **The Architecture of Rest (Seminar)**
-
-*(Sep 2025 – Dec 2025)* 
-
-* Conducted a literature review on **offline consolidation** and the stability-plasticity dilemma.
-
-
-* Analyzed how **Elastic Weight Consolidation** in Artificial Neural Networks (ANNs) mimics sleep functions.
-
-
-* Presented sleep as a mathematically optimized maintenance protocol for neurobiology.
-
-
+*Guide: Prof. Azizuddin Khan*
+* Investigated **Elastic Weight Consolidation** in ANNs to resolve the stability-plasticity dilemma.
+* Mapped neurobiological "sleep" functions to mathematically optimized maintenance protocols in AI.
 
 ---
-
-## 🛠 Technical Skills
-
-* 
-**Languages**: Python, C++, R, LaTeX, MySQL.
-
-
-* **Libraries/Packages**:
-* 
-**Data Science**: scikit-learn, pandas, NumPy, statsmodels.
-
-
-* 
-**Visualization**: Matplotlib, Seaborn.
-
-
-* 
-**Deep Learning/Medical**: TensorFlow, NiBabel.
-
-
