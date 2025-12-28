@@ -31,6 +31,7 @@ title: Jennifer Esbel Mary
 </div>
 
 <div class="glass-card">
+  
 ## Research & Projects
 
 ### **Parkinson's Disease Stratification**
@@ -44,6 +45,7 @@ title: Jennifer Esbel Mary
 </div>
 
 <div class="glass-card">
+  
 ## Leadership & Impact
   
 * **Creatives Manager (IIC):** Managing digital branding for hackathons reaching **50,000+**.
@@ -52,6 +54,7 @@ title: Jennifer Esbel Mary
 </div>
 
 <div class="glass-card">
+  
 ## Technical Toolkit
   
 * **Programming:** Python, C++, R, LaTeX, MySQL.
@@ -60,5 +63,7 @@ title: Jennifer Esbel Mary
 </div>
 
 <div align="center">
+  
   <p><i>Passionate about the intersection of Neuroscience, AI, and Sustainability.</i></p>
+  
 </div>
