@@ -1,10 +1,6 @@
 ---
 layout: default
 title: Jennifer Esbel Mary 
-header:
-  overlay_color: "#FF1493"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/pink_disney_girl.jpg
 ---
 
 <div align="center">
