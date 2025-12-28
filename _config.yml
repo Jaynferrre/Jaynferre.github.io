@@ -1,27 +1,7 @@
-# Theme Settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "air"
-
-# Site Metadata
-title: "Jennifer Esbel Mary"
-name: "Jennifer Esbel Mary"
-description: "Engineering Sciences | Biosciences & Bioengineering | Healthcare Informatics"
-url: "https://jaynferrrre.github.io"
-baseurl: ""
-
-# Author Profile (Sidebar)
-author:
-  name: "Jennifer Esbel Mary"
-  bio: "Pursuing Bachelor's in Science at **IIT Bombay**"
-  location: "Mumbai, India"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jenniferesbelmary/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Jaynferrrre"
-
-# Performance
+theme: jekyll-theme-minimal
+title: Jennifer`s Portfolio
+description: Engineering Sciences @ IIT Bombay
+remote_theme: pages-themes/minimal@v0.2.0
+# Add this line to make the CSS work:
 sass:
   style: :compressed
